@@ -1,0 +1,1 @@
+The MPG filter application is very easy to use.  There is a single slider bar which identifies the minimum MPG desired by the user.  The complete dataset is initially displayed on the right of the screen.  When the minimum MPG is selected cars are filtered out of the dataset then sorted by MPG to show the fastest car with that minimum MPG.
